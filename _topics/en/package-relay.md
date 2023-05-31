@@ -23,6 +23,15 @@ excerpt: >
 ## Optional.  Produces a Markdown link with either "[title][]" or
 ## "[title](link)"
 primary_sources:
+
+    - title: BIP331
+
+    - title: Package Relay Proposal
+      link: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html
+
+    - title: Proposal: Package Mempool Accept and Package RBF
+      link: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html
+
     - title: Package relay strawman proposal
       link: https://gist.github.com/sdaftuar/8756699bfcad4d3806ba9f3396d4e66a
 
